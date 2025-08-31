@@ -97,6 +97,9 @@ export default function Home() {
           />
           Go to nextjs.org →
         </a>
+        <a href="https://developer.mozilla.org/ja/docs/Web">
+          MDN
+        </a>
       </footer>
     </div>
   );
